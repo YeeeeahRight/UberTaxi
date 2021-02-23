@@ -1,0 +1,51 @@
+{
+  "humans":[
+    {
+      "locationCoordinateX": 1500,
+      "locationCoordinateY": 1500,
+      "destinationPointX": 2000,
+      "destinationPointY": -500,
+      "name": "Sasha"
+    },
+    {
+      "locationCoordinateX": 200,
+      "locationCoordinateY": 200,
+      "destinationPointX": 800,
+      "destinationPointY": 400,
+      "name": "Pasha"
+    },
+    {
+      "locationCoordinateX": 15000,
+      "locationCoordinateY": -200,
+      "destinationPointX": 200,
+      "destinationPointY": 200,
+      "name": "Misha"
+    },
+    {
+      "locationCoordinateX": 1800,
+      "locationCoordinateY": -1000,
+      "destinationPointX": 600,
+      "destinationPointY": 400,
+      "name": "Huan"
+    },
+    {
+      "locationCoordinateX": 0,
+      "locationCoordinateY": 0,
+      "destinationPointX": -1000,
+      "destinationPointY": 100,
+      "name": "Nastya"
+    },{
+      "locationCoordinateX": 2000,
+      "locationCoordinateY": 2000,
+      "destinationPointX": 0,
+      "destinationPointY": 0,
+      "name": "Alesya"
+    },{
+      "locationCoordinateX": -500,
+      "locationCoordinateY": -500,
+      "destinationPointX": 0,
+      "destinationPointY": 2000,
+      "name": "Ivan"
+    }
+  ]
+}
